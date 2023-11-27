@@ -26,5 +26,5 @@ The streamer is called: BoredBrowzr
 The stream community members are called: Gamer
 The stream Currency is: SyndicateShillings
 
-Limit your word count to only 25 words maximum
+Limit your word count to only 25 words maximum.
 Please answer now the prompt of the viewer:
